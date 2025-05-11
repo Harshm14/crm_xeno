@@ -16,8 +16,6 @@ This is a Customer Relationship Management (CRM) system developed using PHP and 
 •	• Bootstrap
 •	• JavaScript
 
-🚀 Live Demo
-👉 Click here to view the live project: https://yourcrm.epizy.com/
 📚 How to Use This CRM System Project
 
 ✅ Step 1: Clone or Download the Code
@@ -39,35 +37,7 @@ crm-system/
 ├── sql/
 │   └── database.sql
 ...
-
-🌍 Step 3: Create Free Hosting on InfinityFree
-- Visit https://infinityfree.net
-- Create and verify your account
-- Create a hosting account
-- Access the Control Panel (cPanel)
-
-📤 Step 4: Upload the Project Files
-- Open File Manager in cPanel
-- Navigate to htdocs/
-- Delete default files
-- Upload and extract your project ZIP
-- Ensure index.php is directly inside htdocs/
-
-🗃️ Step 5: Set Up the MySQL Database
-- In cPanel, go to MySQL Databases
-- Create a DB and user
-- Open PHPMyAdmin
-- Select DB > Import > upload database.sql
-
-⚙️ Step 6: Configure Database Connection
-- Edit config/Database.php:
-$this->conn = new mysqli("sqlXXX.epizy.com", "epiz_XXXXXXX", "your_password", "epiz_XXXXXXX_crm");
-
-🚀 Step 7: Access and Use the CRM
-- Visit your CRM URL
-- Login with database credentials (e.g. admin/admin)
-- Start managing customers and invoices
-
+Step 3 Download XAMPP and run the project
 💬 Optional Enhancements
 •	• 🤖 AI Chatbot (using OpenAI or Dialogflow)
 •	• 📈 Analytics dashboard with charts
